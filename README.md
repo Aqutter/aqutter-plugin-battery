@@ -9,7 +9,7 @@ aqutter plugin add github:Aqutter/aqutter-plugin-battery
 cd aqutter && flutter pub get
 ```
 
-需要與 App 相同的殼版本（`aqutter` 的 git ref 為 `0.1.0`）。
+需要與 App 相同的殼版本（`aqutter` 的 git ref 為 `0.2.0`）。
 
 ## 使用
 

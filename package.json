@@ -20,8 +20,13 @@
   "peerDependencies": {
     "@aqutter/aqutter": "*"
   },
+  "peerDependenciesMeta": {
+    "@aqutter/aqutter": {
+      "optional": true
+    }
+  },
   "devDependencies": {
-    "@aqutter/aqutter": "github:Aqutter/aqutter#0.1.0&path:/client",
+    "@aqutter/aqutter": "github:Aqutter/aqutter#0.2.0&path:/client",
     "typescript": "^5.7.0"
   }
 }
